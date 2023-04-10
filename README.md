@@ -5,7 +5,7 @@ Github игры: https://github.com/Regalis11/Barotrauma
 ## Установка
 ***Перед началом необходимо установить SteamCMD!*** Поместите SteamCMD в директорию, к которой скрипт имеет доступ, и укажите путь к директории по инструкции в ModManager - КАК ПОЛЬЗОВАТЬСЯ.txt
 
-Для быстрой настройки используйте (https://github.com/Milord-ThatOneModder/Barotrauma-ModManager/releases/download/0.9.5/download_script_exmple.sh)[download_script_exmple.sh].<br>
+Для быстрой настройки используйте [download_script_exmple.sh](https://github.com/Milord-ThatOneModder/Barotrauma-ModManager/releases/download/0.9.5/download_script_exmple.sh).<br>
 Для детальной настройки прочтите ModManager - КАК ПОЛЬЗОВАТЬСЯ.txt
 
 Список текущих возможностей:
